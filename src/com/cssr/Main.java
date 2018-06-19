@@ -16,5 +16,8 @@ public class Main {
         System.out.println("JoQui$e, we really live in a society.....");
         System.out.println("Chris is here!");
         System.out.println("\nHi, Is Ray!");
+        System.out.println("Ray Alveris");
+        System.out.println("it's lit");
+
     }
 }
