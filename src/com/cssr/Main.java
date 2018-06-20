@@ -19,6 +19,10 @@ public class Main {
 
         System.out.println("\nHi, Is Ray!");
         System.out.println("New Branch");
+
+        
         System.out.println("Today is Wednesday");
+
+
     }
 }
