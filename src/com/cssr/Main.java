@@ -20,7 +20,6 @@ public class Main {
 
 
 
-
         System.out.println("New Branch");
         System.out.println("Today is Wednesday");
 
