@@ -16,11 +16,12 @@ public class Main {
         System.out.println("WUS POPPIN JIMBO");
         System.out.println("My name is Thanh***");
         System.out.println("JoQui$e, we really live in a society.....");
-
         System.out.println("\nHi, Is Ray!");
-        System.out.println("New Branch");
 
-        
+
+
+
+        System.out.println("New Branch");
         System.out.println("Today is Wednesday");
 
 
