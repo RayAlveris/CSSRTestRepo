@@ -1,6 +1,8 @@
 
 package com.cssr;
 
+import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -17,5 +19,6 @@ public class Main {
 
         System.out.println("\nHi, Is Ray!");
         System.out.println("New Branch");
+        System.out.println("Today is Wednesday");
     }
 }
